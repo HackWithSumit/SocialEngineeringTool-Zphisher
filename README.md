@@ -38,6 +38,15 @@ Setup :
          sudo ./zphisher.sh 
   
 ![image](https://github.com/HackWithSumit/SocialEngineeringTool-Zphisher/assets/120317751/889691a4-0d8c-4057-9b1a-375d0b28fbe6)
+  
+  
+![image](https://github.com/HackWithSumit/SocialEngineeringTool-Zphisher/assets/120317751/63ad550c-aec1-4f9b-a1d9-fd489a485d2f)
+
+  
+Application Window :
+  
+![image](https://github.com/HackWithSumit/SocialEngineeringTool-Zphisher/assets/120317751/e2233198-c385-486f-9427-16f89e472275)
+  
 
 
 
