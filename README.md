@@ -25,6 +25,21 @@ Go To Zphisher Directory:
   
   
 ![image](https://github.com/HackWithSumit/SocialEngineeringTool-Zphisher/assets/120317751/e2723a8d-5946-4adb-816f-24bce08e5c61)
+  
+Execute Files :
+  
+         chmod +x *
+  
+  
+![image](https://github.com/HackWithSumit/SocialEngineeringTool-Zphisher/assets/120317751/78251b45-e8b7-4ec0-9dde-0f0cc604d2d5)
+  
+Setup :
+  
+         sudo ./zphisher.sh 
+  
+![image](https://github.com/HackWithSumit/SocialEngineeringTool-Zphisher/assets/120317751/889691a4-0d8c-4057-9b1a-375d0b28fbe6)
+
+
 
 
 
