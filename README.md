@@ -18,5 +18,13 @@ Git Repositories :
 
   
 ![image](https://github.com/HackWithSumit/SocialEngineeringTool-Zphisher/assets/120317751/642211d3-9f60-47af-b2da-31cc56f9d29c)
+  
+Go To Zphisher Directory:
+  
+        cd zphisher
+  
+  
+![image](https://github.com/HackWithSumit/SocialEngineeringTool-Zphisher/assets/120317751/e2723a8d-5946-4adb-816f-24bce08e5c61)
+
 
 
